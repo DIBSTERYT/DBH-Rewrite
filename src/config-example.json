@@ -92,7 +92,8 @@
     "proxies": [
         {
             "proxyUrl": "",
-            "pass": ""
+            "pass": "",
+            "ip": ""
         }
     ],
     "mongoDB": "mongodb://localhost:27017/db"
